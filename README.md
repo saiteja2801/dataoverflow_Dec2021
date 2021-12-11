@@ -150,7 +150,7 @@ You can use this sample data to run your code.
 * Start writing your code by updating the `covid_vaccine` function in the `code/script.py`  feel free add/modify the code.
 * If your code is using additional libraries please mention it in the `requirements.txt`.
 * Once you are happy with the code, commit the code
-* Submit your github repository link along with the commit id in our [website](https://dataoverflow.affinityanswers.com).
+* Submit your github repository link along with the commit id in our [google form](https://docs.google.com/forms/d/e/1FAIpQLSfcLzodcRG4fhD6en4r8o-CqtTXtiwBt_k_28P0G3PXcH9ksg/viewform).
 
 
 ## How to test your code?
