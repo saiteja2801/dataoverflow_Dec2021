@@ -157,7 +157,9 @@ You can use this sample data to run your code.
 
 Run the basic test cases by running.
   
-  ```python3 wrapper.py test```
+  ```console
+  python3 wrapper.py test
+  ```
   
   This tests your code with basic test cases.
 
@@ -165,4 +167,6 @@ Run the basic test cases by running.
 
 To run your code with the given sample input file, please run
 
-```python3 wrapper.py run -v {vaccination_status_0.tsv} [{vaccination_status_1.tsv} ...]  -u {user_meta.tsv} -o output_file.tsv```
+```console
+python3 wrapper.py run -v {vaccination_status_0.tsv} [{vaccination_status_1.tsv} ...]  -u {user_meta.tsv} -o output_file.tsv
+```
